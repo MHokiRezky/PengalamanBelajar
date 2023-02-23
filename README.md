@@ -5,7 +5,7 @@ Repository ini Berisi Pengalaman Belajarku di Dicoding
 
 **23 Februari 2023**  
 
-Belajar kelas Dasar Git dengan Github. (Progres 39%)
+Belajar kelas Dasar Git dengan Github. (Progres 42%)
 
 * Belajar dari pengenalan Git dan Github
 
@@ -14,3 +14,5 @@ Belajar kelas Dasar Git dengan Github. (Progres 39%)
 * Belajar studikasus dalam github
 
 * Belajar menambahkan kembali progres belajar
+
+* Belajar mengerjakan tantangan untuk menambahkkan progres belajar
