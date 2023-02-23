@@ -16,3 +16,6 @@ Belajar kelas Dasar Git dengan Github. (Progres 42%)
 * Belajar menambahkan kembali progres belajar
 
 * Belajar mengerjakan tantangan untuk menambahkkan progres belajar
+
+
+* belajar membuat branch baru
